@@ -1,4 +1,4 @@
-![title.jpg](images/title.jpg)
+![title.jpg](Images/title.jpg)
 
 
 ### Basic Commands
